@@ -1,0 +1,5 @@
+unit Click_MOTION_config;
+
+uses Click_MOTION_types;
+
+end.

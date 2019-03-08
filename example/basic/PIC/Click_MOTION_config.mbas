@@ -1,0 +1,5 @@
+module Click_MOTION_config
+
+include Click_MOTION_types
+
+end.

@@ -1,0 +1,81 @@
+[DEVICE]
+Name=P18F87K22
+Clock=64000000
+[BUILD_TYPE]
+Value=0
+
+[MEMORY_MODEL]
+Value=0
+[ACTIVE_TAB]
+Value=Click_MOTION_PIC.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+File0=Click_MOTION_PIC.c
+File1=..\..\..\library\__motion_Driver.c
+Count=2
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=Click_MOTION_PIC.c
+File1=..\..\..\library\__motion_driver.h
+File2=..\..\..\library\__motion_Driver.c
+File3=Click_MOTION_types.h
+File4=Click_MOTION_config.h
+Count=5
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=..\..\..\library\HAL\
+Path1=..\..\..\library\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\MOTION Click\Uses\
+Count=4
+[HEADER_PATH]
+Path0=..\..\..\library\
+Path1=..\..\..\library\HAL\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS Board Definition API\Uses\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\MOTION Click\Uses\
+Count=4
+[HEADERS]
+File0=..\..\..\library\__motion_driver.h
+File1=Click_MOTION_config.h
+File2=Click_MOTION_types.h
+Count=3
+[PLDS]
+File0=Click_MOTION.pld
+Count=1
+[Useses]
+File0=UART
+File1=easypicpro_v7_P18F87K22
+Count=2
+[EXPANDED_NODES]
+0=Click_MOTION_PIC.mcppi
+1=Sources
+4=Header Files
+Count=3
+[LIB_EXPANDED_NODES]
+0=mikroE Libraries
+1=System Libraries
+891=mikroSDK Libraries
+892=mikroBUS Board Definition API
+893=easypicpro_v7_P18F87K22
+897=Click Libraries
+924=MOTION Click
+925=MOTION_P18
+930=Additional Libraries
+1658=FT812
+Count=10
